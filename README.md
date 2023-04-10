@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+
+My name is Kieran!
+
+- 🔭 I’m currently working on writing tests in Golang
+- :speech_balloon: Pronounced as: *Keer-un*
+- 😄 Pronouns: he/him/his
+- 💬 Ask me about: Terraform, AWS
+- :page_facing_up: Tech blog at: <https://klowe.io>
 
 <!--
 **lowekie/lowekie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
