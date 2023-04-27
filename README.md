@@ -7,11 +7,11 @@ A Public Cloud Engineer involved in solution architecture and development in AWS
 - :speech_balloon: Pronounced as: *Keer-un*
 - 😄 Pronouns: he/him/his
 - 🤔 Ask me about: Terraform, AWS
-- 🌐 Check out my tech blog at: <https://klowe.io>
+- 🌐 Check out my tech blog at: <https://kieranlowe.io>
 - 📫 How to reach me: hello@kieranlowe.me
 
 <!--
-**lowekie/lowekie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kieran-lowe/kieran-lowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
