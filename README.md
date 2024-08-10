@@ -1,5 +1,7 @@
 ![kieran_lowe_banner](./assets/banner.png)
 
+[![Update badges](https://github.com/kieran-lowe/kieran-lowe/actions/workflows/credly_badges.yml/badge.svg?branch=main)](https://github.com/kieran-lowe/kieran-lowe/actions/workflows/credly_badges.yml)
+
 ### Hey, I'm Kieran! 👋
 
 A Public Cloud Technical Authority, involved in solution architecture and development in AWS to drive transformation. I have a keen interest in DevSecOps, CI/CD, AWS, Terraform and everything automation!
