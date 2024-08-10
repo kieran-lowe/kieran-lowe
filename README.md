@@ -25,4 +25,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--START_SECTION:badges-->
+
+<!--END_SECTION:badges-->
+
 [![Kieran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kieran-lowe)](https://github.com/anuraghazra/github-readme-stats)
