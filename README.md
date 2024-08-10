@@ -1,7 +1,5 @@
 ![kieran_lowe_banner](./assets/banner.png)
 
-[![Update badges](https://github.com/kieran-lowe/kieran-lowe/actions/workflows/credly_badges.yml/badge.svg?branch=main)](https://github.com/kieran-lowe/kieran-lowe/actions/workflows/credly_badges.yml)
-
 ### Hey, I'm Kieran! 👋
 
 A Public Cloud Technical Authority, involved in solution architecture and development in AWS to drive transformation. I have a keen interest in DevSecOps, CI/CD, AWS, Terraform and everything automation!
@@ -30,6 +28,8 @@ Here are some ideas to get you started:
 [![Kieran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kieran-lowe)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Credly Badges
+
+[![Update badges](https://github.com/kieran-lowe/kieran-lowe/actions/workflows/credly_badges.yml/badge.svg?branch=main)](https://github.com/kieran-lowe/kieran-lowe/actions/workflows/credly_badges.yml)
 <!--START_SECTION:badges-->
 [![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/110x110/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)](http://www.credly.com/badges/6375b617-0ecf-4288-a78c-66dbbeddc213 "HashiCorp Certified: Terraform Associate (003)")
 [![GitHub Actions](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/de41e6d4-a0a0-428f-a592-077b4e3649d2 "GitHub Actions")
