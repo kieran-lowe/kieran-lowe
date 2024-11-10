@@ -2,11 +2,11 @@
 
 ### Hey, I'm Kieran! 👋
 
-A Public Cloud Technical Authority, involved in solution architecture and development in AWS to drive transformation. I have a keen interest in DevSecOps, CI/CD, AWS, Terraform and everything automation!
+A Public Cloud Technical Authority, involved in solution architecture and development in AWS to drive transformation. I have a keen interest in DevSecOps, CI/CD, AWS, OpenTofu and everything automation!
 
 - :speech_balloon: Pronounced as: *Keer-un*
 - 😄 Pronouns: he/him/his
-- 🤔 Ask me about: Terraform, AWS
+- 🤔 Ask me about: OpenTofu, Terraform, AWS, CICD, GitHub Actions
 - 🌐 Check out my tech blog at: <https://kieranlowe.io>
 - 📫 How to reach me: hello@kieranlowe.me
 
