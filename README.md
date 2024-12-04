@@ -2,28 +2,14 @@
 
 ### Hey, I'm Kieran! 👋
 
-A Public Cloud Technical Authority, involved in solution architecture and development in AWS to drive transformation. I have a keen interest in DevSecOps, CI/CD, AWS, OpenTofu and everything automation!
+I have a keen interest in DevSecOps, CI/CD, AWS, IaC, Terraform, OpenTofu and everything automation!
 
 - :speech_balloon: Pronounced as: *Keer-un*
 - 😄 Pronouns: he/him/his
 - 🤔 Ask me about: OpenTofu, Terraform, AWS, CICD, GitHub Actions
 - 🌐 Check out my tech blog at: <https://kieranlowe.io>
-- 📫 How to reach me: hello@kieranlowe.me
-
-<!--
-**kieran-lowe/kieran-lowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - You can find direct links to some of my blog posts at [Blog Posts](#blog-posts)
+- 📫 How to reach me: <hello@kieranlowe.me>
 
 [![Kieran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kieran-lowe)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -39,3 +25,15 @@ Here are some ideas to get you started:
 [![Cloud Foundation](https://images.credly.com/size/110x110/images/df5c55dd-34d7-4b9e-b1f0-03ae1589eacf/level_2_CloudFoundation_600.png)](http://www.credly.com/badges/7e658ac1-c721-4b95-b06b-7a5ffd87cb35 "Cloud Foundation")
 [![HashiCorp Certified: Terraform Associate (002)](https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](http://www.credly.com/badges/b0389c0d-d4df-43a2-8603-bf603049cb6a "HashiCorp Certified: Terraform Associate (002)")
 <!--END_SECTION:badges-->
+
+### Other Badges
+
+<img src="./assets/badge-gitops-pro.svg" alt="MTC GitOps Pro Badge" width="110px"/>
+<img src="./assets/badge-gitops.png" alt="MTC GitOps Badge" width="110px"/>
+
+### Blog Posts
+
+| Name | Link | Date | Location |
+|------|------|------|----------|
+| Supporting both OpenTofu and Terraform in Your Modules | [here](https://kieranlowe.io/supporting-both-opentofu-and-terraform-in-your-modules) | Dec 2024 | kieranlowe.io |
+| Implementing Self-Hosted GitHub Action Runners using AWS CodeBuild | [here](https://kieranlowe.io/implementing-self-hosted-github-action-runners-using-aws-codebuild) | Nov 2024 | kieranlowe.io |
