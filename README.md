@@ -28,8 +28,10 @@ I have a keen interest in DevSecOps, CI/CD, AWS, IaC, Terraform, OpenTofu and ev
 
 ### Other Badges
 
-<img src="./assets/badge-gitops-pro.svg" alt="MTC GitOps Pro Badge" width="110px"/>
-<img src="./assets/badge-gitops.png" alt="MTC GitOps Badge" width="110px"/>
+<p align="left">
+  <a href="https://morethancertified.com/course/gitops-for-terraform-minicamp"><img src="./assets/badge-gitops-pro.svg" alt="MTC GitOps Pro Badge" width="110px"/></a>
+  <a href="https://morethancertified.com/course/gitops-for-terraform-minicamp"><img src="./assets/badge-gitops.png" alt="MTC GitOps Badge" width="110px"/></a>
+</p>
 
 ### Blog Posts
 
