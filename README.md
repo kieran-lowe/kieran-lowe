@@ -37,5 +37,6 @@ I have a keen interest in DevSecOps, CI/CD, AWS, IaC, Terraform, OpenTofu and ev
 
 | Name | Link | Date | Location |
 |------|------|------|----------|
-| Supporting both OpenTofu and Terraform in Your Modules | [here](https://kieranlowe.io/supporting-both-opentofu-and-terraform-in-your-modules) | Dec 2024 | kieranlowe.io |
-| Implementing Self-Hosted GitHub Action Runners using AWS CodeBuild | [here](https://kieranlowe.io/implementing-self-hosted-github-action-runners-using-aws-codebuild) | Nov 2024 | kieranlowe.io |
+| Terraform S3 Backend Setup: Skip the Table | [here](https://kieranlowe.io/terraform-s3-backend-setup-skip-the-table) | 16th December 2024 | kieranlowe.io |
+| Supporting both OpenTofu and Terraform in Your Modules | [here](https://kieranlowe.io/supporting-both-opentofu-and-terraform-in-your-modules) | 4th December 2024 | kieranlowe.io |
+| Implementing Self-Hosted GitHub Action Runners using AWS CodeBuild | [here](https://kieranlowe.io/implementing-self-hosted-github-action-runners-using-aws-codebuild) | 19th November 2024 | kieranlowe.io |
